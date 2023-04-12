@@ -1,6 +1,8 @@
 # AI Instructions
 
-With the rise of AI code assistants, it is important that they are able to complete tasks accurately and efficiently. However, using the code alone as a prompt is insufficient as it lacks context and the big picture. 
+With the rise of AI code assistants, it is important that they are able to complete tasks accurately and efficiently. 
+
+However, using the code alone as a prompt is insufficient as it lacks context and the big picture. 
 
 Additionally, with new approaches like AutoGPT, multiple AI agents may be working on the same project, requiring context and guidance on what matters and what to avoid.
 
