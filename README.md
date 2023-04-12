@@ -43,5 +43,6 @@ $ EXPORT ACT_AS_AGENT=qa && <run command>
 ```
 
 ## Feedback
+Most of the instructions were written by AI ;)
 
 Please provide feedback in a form of a pull request or an issue.
