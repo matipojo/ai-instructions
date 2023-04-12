@@ -4,7 +4,7 @@ With the rise of AI code assistants, it is important that they are able to compl
 
 However, using the code alone as a prompt is insufficient as it lacks context and the big picture. 
 
-Additionally, with new approaches like [AutoGPT](https://github.com/Torantulino/Auto-GPT), multiple AI agents may be working on the same project, requiring context and guidance on what matters and what to avoid.
+Additionally, with new approaches like [AutoGPT](https://github.com/Torantulino/Auto-GPT), multiple AI agents may be working on the same project, requiring different context and guidance on what matters and what to avoid.
 
 To address this, the proposal is creating a folder of AI instructions that can be used by AI assistants as prompts behind the scenes.
 
