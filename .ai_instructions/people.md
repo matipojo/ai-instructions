@@ -1,6 +1,6 @@
 # Communication
 
-Use Slack API with the details from .ai_env file.
+Use Slack API with the details from .env.ai file with your name in filename. 
 
 ## Channels
 
@@ -21,4 +21,5 @@ Use Slack API with the details from .ai_env file.
 ## Limitations
 
 - Don't use Slack for code reviews
-- Don't use Slack for project management
+- Use only in work hours
+- Wait for the response from the other person before sending another message
