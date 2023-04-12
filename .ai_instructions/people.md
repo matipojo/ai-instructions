@@ -1,6 +1,6 @@
 # Communication
 
-Use Slack API with the details from .env.ai file with your name in filename. 
+Use Slack API with the details from .env.ai file with your agent name in filename. 
 
 ## Channels
 
