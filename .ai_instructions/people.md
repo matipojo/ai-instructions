@@ -20,6 +20,6 @@ Use Slack API with the details from .env.ai file with your name in filename.
 
 ## Limitations
 
-- Don't use Slack for code reviews
+- Don't send code snippets in Slack, instead open a Pull Request and send the link
 - Use only in work hours
 - Wait for the response from the other person before sending another message
